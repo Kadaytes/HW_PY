@@ -1,0 +1,74 @@
+[
+    {
+        "name": "python",
+        "type": "directory",
+        "size": 44656,
+        "parent_directory": "/Users/kadaytes/study"
+    },
+    {
+        "name": "hw8_py.py",
+        "type": "file",
+        "size": 3411,
+        "parent_directory": "/Users/kadaytes/study/python"
+    },
+    {
+        "name": ".DS_Store",
+        "type": "file",
+        "size": 6148,
+        "parent_directory": "/Users/kadaytes/study/python"
+    },
+    {
+        "name": "hw9_py.py",
+        "type": "file",
+        "size": 1108,
+        "parent_directory": "/Users/kadaytes/study/python"
+    },
+    {
+        "name": "hw1_py.py",
+        "type": "file",
+        "size": 3225,
+        "parent_directory": "/Users/kadaytes/study/python"
+    },
+    {
+        "name": "work.py",
+        "type": "file",
+        "size": 1864,
+        "parent_directory": "/Users/kadaytes/study/python"
+    },
+    {
+        "name": "hw3_py.py",
+        "type": "file",
+        "size": 3470,
+        "parent_directory": "/Users/kadaytes/study/python"
+    },
+    {
+        "name": "hw7_py.py",
+        "type": "file",
+        "size": 6725,
+        "parent_directory": "/Users/kadaytes/study/python"
+    },
+    {
+        "name": "hw5_py.py",
+        "type": "file",
+        "size": 2603,
+        "parent_directory": "/Users/kadaytes/study/python"
+    },
+    {
+        "name": "hw2_py.py",
+        "type": "file",
+        "size": 5775,
+        "parent_directory": "/Users/kadaytes/study/python"
+    },
+    {
+        "name": "hw4_py.py",
+        "type": "file",
+        "size": 5199,
+        "parent_directory": "/Users/kadaytes/study/python"
+    },
+    {
+        "name": "hw6_py.py",
+        "type": "file",
+        "size": 5128,
+        "parent_directory": "/Users/kadaytes/study/python"
+    }
+]
